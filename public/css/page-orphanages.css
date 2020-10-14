@@ -55,4 +55,11 @@ a.create-orphanages{
     display: flex;
     justify-content: center;
     align-items: center;
+
+    transition: background-color 500ms;
+}
+
+a.create-orphanages:hover{
+    background: #17D6EB;
+
 }
